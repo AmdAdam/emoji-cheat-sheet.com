@@ -1,4 +1,4 @@
-# :sparkles: :heart: Emoji-Cheat-Sheet.com :heart: :sparkles:
+#  :heart: Emoji-Cheat-Sheet.com :heart: 
 
 A one pager listing the different emoji emoticons supported on
 [Campfire](http://campfirenow.com/),
